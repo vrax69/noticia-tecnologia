@@ -36,3 +36,10 @@ header {
 .noticia a:hover {
     background-color: #003f8a;
 }
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
