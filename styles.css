@@ -23,3 +23,16 @@ header {
     width: 100%;
     border-radius: 5px;
 }
+
+.noticia a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #0057b7;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.noticia a:hover {
+    background-color: #003f8a;
+}
